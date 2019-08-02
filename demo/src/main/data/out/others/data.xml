@@ -1,0 +1,14 @@
+
+<Order>
+<number>123456</number>
+<country>UK</country>
+<amount>676332</amount>
+<items>
+<vegetables>potato</vegetables>
+<fruits>apple</fruits>
+</items>
+<items>
+<vegetables>tomato</vegetables>
+<fruits>orange</fruits>
+</items>
+</Order>
